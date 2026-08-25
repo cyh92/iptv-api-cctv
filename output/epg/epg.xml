@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260825012556 +0800">
+<tv date="20260825030206 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14913,14 +14913,11 @@
 	<programme channel="CETV-2" start="20260825005000 +0800" stop="20260825013500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="CETV-2" start="20260825005000 +0800" stop="20260825013500 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
 	<programme channel="CETV-2" start="20260825013500 +0800" stop="20260825020500 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV-2" start="20260825020500 +0800" stop="20260825024000 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV-2" start="20260825024000 +0800" stop="20260825030500 +0800">
 		<title lang="zh">艺术素养公开课</title>
@@ -14928,7 +14925,10 @@
 	<programme channel="CETV-2" start="20260825030500 +0800" stop="20260825033000 +0800">
 		<title lang="zh">课本里的非遗</title>
 	</programme>
-	<programme channel="CETV-2" start="20260825033000 +0800" stop="20260825041000 +0800">
+	<programme channel="CETV-2" start="20260825033000 +0800" stop="20260825040000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV-2" start="20260825040000 +0800" stop="20260825041000 +0800">
 		<title lang="zh">村寨美丽中国</title>
 	</programme>
 	<programme channel="CETV-2" start="20260825041000 +0800" stop="20260825044000 +0800">
@@ -14941,7 +14941,7 @@
 		<title lang="zh">一堂好课</title>
 	</programme>
 	<programme channel="CETV-2" start="20260825060100 +0800" stop="20260825063500 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV-2" start="20260825063500 +0800" stop="20260825065500 +0800">
 		<title lang="zh">课本中的古诗文</title>
@@ -15053,9 +15053,6 @@
 	</programme>
 	<programme channel="CETV-2" start="20260825233000 +0800" stop="20260825235900 +0800">
 		<title lang="zh">一堂好课Ⅱ</title>
-	</programme>
-	<programme channel="CETV-2" start="20260825235900 +0800" stop="20260826000000 +0800">
-		<title lang="zh">节目结束</title>
 	</programme>
 	<programme channel="CETV-2" start="20260826000000 +0800" stop="20260826005000 +0800">
 		<title lang="zh">纪录中国</title>
