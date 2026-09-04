@@ -18,13 +18,11 @@ https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=c03a857ad9c2758838444b2bc344829d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&Channel_ID=0116_2600034600-99000-201600010069496&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.133.49.112&SecurityKey=20260904061508&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bd69a8e5653d22139be8d14bd592167d&sv=10004&ct=android&timestamp=20260904061508&encrypt=f8097ece4195cb91e65b7e6c417ed0a1&HlsSubType=1&HlsProfileId=1&nphaid=0
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=fac80773ba460abac375ba2ab8ef07dc&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260904120550&Channel_ID=0116_2600034600-99000-201600010065174&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.134.130.15&SecurityKey=20260904120550&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c97b74af8336fa55b76168a4eeab04f6&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=277c6cb22c0665731a0f163b67979aaf
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=c03a857ad9c2758838444b2bc344829d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260904061422&Channel_ID=0116_2600034600-99000-201600010001848&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.134.130.193&SecurityKey=20260904061422&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=575fab9bba38f6abdac82d92dd1bf729&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d38fa66554473724c52f5c56218d228f
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -63,11 +61,13 @@ https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+http://pull-hs-f5.flive.douyincdn.com/media/stream-408251310348436140/index.m3u8?expire=1789099612&sign=fc964b75a1fdd12e2cc6caba1cc58b50&volcSecret=fc964b75a1fdd12e2cc6caba1cc58b50&volcTime=1789099612&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026090412065223F80952DDD0149966B8-rXO05O
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-04 11:43:29
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-04 16:40:21
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
