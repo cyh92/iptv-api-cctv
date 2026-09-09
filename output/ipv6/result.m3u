@@ -23,6 +23,8 @@ https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=9d7e0322d61ef737fc1be64b3d6d3cbc&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&Channel_ID=0116_2600034600-99000-201600010082084&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=113.6.228.181&SecurityKey=20260909174530&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=a26e682f6f1fd38adcc1cfcc73181655&sv=10004&ct=android&timestamp=20260909174530&encrypt=fce324778af6220c3a656cee165c847f&HlsSubType=1&HlsProfileId=1&nphaid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -71,5 +73,5 @@ https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV-4
 https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-09 16:50:35
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-09 22:17:25
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
